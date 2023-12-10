@@ -1,12 +1,18 @@
 unstructured
 tiktoken
-pinecone-client
 pypdf
+python-dotenv
+
+# Vector DB
+pinecone-client
+
+# LLM
+pygpt4all
+pygptj
 openai
 gpt4all
 langchain
-pandas 
-numpy
-python-dotenv
-pygpt4all
-pygptj
+
+# Embeddings
+sentence_transformers 
+InstructorEmbedding
