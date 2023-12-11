@@ -5,6 +5,7 @@ python-dotenv
 
 # Vector DB
 pinecone-client
+weaviate-client
 
 # LLM
 pygpt4all
